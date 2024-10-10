@@ -70,4 +70,7 @@ def normalize_csv(input_file, output_file):
 # Convert txt to CSV đẩy vào thư mục temp
 process_directory(input_directory, temp_directory)
 
+# Đọc lần lượt từng file trong thư mục temp
+# Chẩn hoá file csv thành dạng ma trận có số dòng cột
+
 
